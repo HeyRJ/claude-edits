@@ -47,6 +47,20 @@ Here are my raw drone clips and a song. Find the beat and pick the best shots. C
 
 **Needs:** the same as 3.
 
+## 5. A toy-town edit (tilt-shift)
+
+```
+Make these drone clips look like a toy town: keep a band across the middle sharp, blur above and below it, push the colours and speed it up.
+```
+
+**Needs:** the same as 3: Claude running code on your files. It uses Python with OpenCV and ffmpeg.
+
+**Tips:**
+- It works on shots that look down on a place from high up, with small cars, people or boats in them. Low or straight-on shots don't look like a model.
+- Say where the sharp band should sit (the street, the harbour, the building), or ask Claude to pick it from a frame.
+- Sunny footage looks most like a toy. On grey days, ask for more colour and contrast.
+- 30 fps footage is fine: speeding up only drops frames.
+
 ## Music
 
 Use songs you have the rights to use.
